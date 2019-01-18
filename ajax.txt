@@ -1,0 +1,8 @@
+AJAX:
+
+AJAX stands for Asynchronous JavaScript and XML.
+
+What is AJAX?
+Ajax is a special technique used in Web Programming for send request to Server and get response from Server without refreshing or reloading the client side web page.
+
+Basically Ajax is a client side scripting, written in JavaScript or jQuery and it will execute in Client Side.

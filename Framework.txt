@@ -1,0 +1,61 @@
+Framework:
+Framework is a custom programming application which is prepared by a core programming language, and this also provide some functionality instead of writing long code or complex logic for build up an User Application very easily, faster and flawlessly.
+
+Example of PHP Framework:
+  1) CodeIgnitor, 2) Laravel,
+  3) Yii,
+  4) Zend,
+  5) CakePHP
+  6) Phalcon
+  7) Pear
+  8) Verbum
+
+Advantages of Framework:
+1) Less Coding
+2) Apply Less Logic
+3) Follwed MVC Architecture
+4) Highly Efficient
+5) Secured
+6) Time Consumed
+7) Easy to Debugging and Testing
+
+Disadvantages of Framework:
+1) Required vast knowledge of OOPs and MVC
+2) Expertice about Core Programming Lanuage.
+
+CMS:
+CMS stands for Content Management System.
+CMS is an programming application through which an User Application Interface easily build up by without coding.
+
+Example of PHP CMS:
+    1) Wordpress,
+    2) Magento,
+    3) Drupal,
+    4) Joomla,
+    5) Prestashop
+    6) OSCommerce
+    7) Openkart
+
+
+Advantages of CMS:
+    1) Easy to Develop.
+    2) Attractive Design
+    3) Easy for Maintance
+
+Disadvantages of CMS:
+    1) Lack of Scope to Customization by core programming
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+

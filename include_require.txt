@@ -1,0 +1,11 @@
+include function:
+include() used for include another php page into a php page
+
+include_once():
+include_once() used for include a same php page at once.
+
+require function:
+require() is used for must be or mandatory to include a php page, otherwise it will not be execute the rest of code.
+
+require_once():
+require_once() is used for mandatory to include a php page at once. 

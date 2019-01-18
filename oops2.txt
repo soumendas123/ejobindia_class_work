@@ -1,0 +1,19 @@
+Inheritance:
+
+Inheritance is a process in OOPs where a class property used in another class.
+
+Classification of Inheritance:
+1) Single, 2) Multilevel, 3) Multiple, 4) Hierchical, 5) Hybrid
+
+Single Inheritance:
+One class link to another class.
+
+Multilevel Inheritance:
+Multiple classes are linked one by one 
+
+Interface:
+
+Interface is a container like class, that holds methods and variables, but methods should not have any body or definition, only declaration.
+
+
+

@@ -1,0 +1,26 @@
+Hierchical Inheritance:
+
+  One class inherits into mutiple classes.
+
+Hybrid Inheritance:
+
+   The Hybrid inheritance is combination of multiple type of inheritance.
+
+Function/Method Overriding:
+
+Method Overriding is a process through which a method of a class should replaced by another same name method of other class.
+
+Polymorphism:
+Polymorphism is a process in OOPs where a same function behave different to various object.
+
+Abstraction:
+Abstraction is a process in OOPs where a common class resource will be shared by other classes, but that class should not used by object itself.
+
+Abstract Function:
+Abstract function not have any body or definition, it is the only declaration and abstract function is always declare within the abstract class.
+
+Function Overloading:
+Function overloading is a process in OOPs through which one function should used in different way at runtime.
+
+
+  

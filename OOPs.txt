@@ -1,0 +1,30 @@
+ OOPs:
+
+ OOPs stands for Object Oriented Programming, OOPs is a special technique apply in programming language through which a long coding divided into serveral logical block for better efficiency.
+
+ Features of OOPs:
+ 1) Highly Effiecient.
+ 2) Less memory space required.
+ 3) Divide long code into serveral blocks.
+ 4) Easy to debugging.
+
+ Characteristics of OOPs:
+ 1) Class and Objects.
+ 2) Constructor and Destructor
+ 3) Function Overloading
+ 4) Inheritance
+ 5) Interface.
+ 6) Function Overriding.
+ 7) Polymorphism
+ 8) Abstraction 
+
+ What is class?
+ 	Class is block where various variables and functions kept in it, used as single unit.
+
+ What is Object?
+ 	Object is an element which is represent a class.
+
+ What is Constructor?
+ 	Constructor is special function within the class which has same name as class name, no return type and called during object initialization time.
+
+ 	But, in case of PHP it is not required to define a constructor with same name of Class, it is used a __construct keyword
